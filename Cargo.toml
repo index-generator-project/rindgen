@@ -1,0 +1,10 @@
+[package]
+name = "rindgen"
+description = "Yet another index generator (rewrite in Rust)"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
+tera = "1.20.0"
